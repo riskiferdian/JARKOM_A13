@@ -68,6 +68,7 @@ Your Super Mega Ultra Rare Hint = nama pdf-nya "Yes.pdf"
 
 ## 8.	Cari objek apa saja yang didownload (RETR) dari koneksi FTP dengan Microsoft FTP Service
 -	Wireshark filter expression = ftp.request.command == RETR
+
 ![Gbr 12](https://github.com/riskiferdian/JARKOM_A13/blob/main/images/12.jpg)
 
 ![Gbr 13](https://github.com/riskiferdian/JARKOM_A13/blob/main/images/13.png)
@@ -88,7 +89,7 @@ Your Super Mega Ultra Rare Hint = nama pdf-nya "Yes.pdf"
 
 ![Gbr 15](https://github.com/riskiferdian/JARKOM_A13/blob/main/images/15.png)
 
-1[Gbr 16](https://github.com/riskiferdian/JARKOM_A13/blob/main/images/16.jpg)
+![Gbr 16](https://github.com/riskiferdian/JARKOM_A13/blob/main/images/16.jpg)
 
 - Di sini kita langsung saja melakukan pencarian berdasarkan Hex Value yang telah diberikan. Kemudian kita follow tcp stream dan kita save raw sebagai file pdf, dan hasilnya dapat dilihat di gambar kedua.
  
